@@ -1,0 +1,35 @@
+{
+  "format_version": "1.14.0",
+  "sound_definitions": {
+    "record.5": {
+      "category": "record",
+      "sounds": [
+        {
+          "name": "sounds/music/game/records/5",
+          "stream": true,
+          "volume": 1
+        }
+      ]
+    },
+    "record.11": {
+      "category": "record",
+      "sounds": [
+        {
+          "name": "sounds/music/game/records/11",
+          "stream": true,
+          "volume": 1
+        }
+      ]
+    },
+    "record.pigstep": {
+      "category": "record",
+      "sounds": [
+        {
+          "name": "sounds/music/game/records/pigstep",
+          "stream": true,
+          "volume": 1
+        }
+      ]
+    }
+  }
+}

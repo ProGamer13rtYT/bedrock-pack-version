@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Alan becker songs",
+    "description": "Custom music discs (5, 11, Pigstep) — built with MCTools",
+    "uuid": "76774315-5f19-4206-80e3-19eec2bd1091",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "fa28104c-1e8f-42cb-99fc-e1604e8c3e8a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

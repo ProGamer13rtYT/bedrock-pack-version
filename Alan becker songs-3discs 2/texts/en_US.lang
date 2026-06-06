@@ -1,0 +1,7 @@
+item.record_5.name=Green`s Jam
+item.record_5.desc=Green`s Jam
+item.record_11.name=Jazzy Note Blocks
+item.record_11.desc=Jazzy Note Blocks
+item.record_pigstep.name=Pigstep
+item.record_pigstep.desc=Pigstep
+record.nowPlaying=Now Playing: %s
